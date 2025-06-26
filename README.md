@@ -10,6 +10,12 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 Objectives
 * Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
-Data Cleaning: Identify and remove any records with missing or null values.
-Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
-Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
+* Data Cleaning: Identify and remove any records with missing or null values.
+* Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
+* Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
+
+
+**Project Structure**
+1.DATABASE SETUP
+* Database Creation: The project starts by creating a database named retail_sales_db
+* Table Import: the csv file as been imported for MYSQL workbench
